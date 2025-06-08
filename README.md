@@ -1,4 +1,4 @@
-# chents-devops
+# CHENTS
 # GLOBAL SOLUTION 2025
 
 ## Equipe
