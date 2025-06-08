@@ -40,6 +40,10 @@ Um casal de idosos possui um filho que mora em outra cidade e deseja acompanhar 
 ![image1](https://github.com/eduardofuncao/chents-devops/blob/db1a21a96d86f5cc09fde204ff155ccf9ce3b277/CHENTS_GS_DIAGRAM_CLOUD_SERVICES_ARCHITECTURE.png)
 
 ## CHENTS: Informação que salva, colaboração que protege!
-link deploy: http://52.224.132.231:8080
+LINK: http://52.224.132.231:8080
 
 ![image](https://github.com/user-attachments/assets/314e91d4-e1d1-4541-9287-58c1181554b3)
+
+## Acesse
+
+![image](https://github.com/eduardofuncao/chents-devops/blob/d5035c180c0ebf0dea8829adc2da671ec9548712/CHENTS_login.png)
