@@ -1,4 +1,7 @@
 # CHENTS
+
+![image](https://github.com/eduardofuncao/chents-devops/blob/6e599cdd19370c10b2791fa0f169ff9e752c4d7b/svgviewer-png-output(2).png)
+
 # GLOBAL SOLUTION 2025
 
 ## Equipe
