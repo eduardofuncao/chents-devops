@@ -48,3 +48,8 @@ LINK: http://52.224.132.231:8080
 ## Acesse:
 
 ![image](https://github.com/eduardofuncao/chents-devops/blob/d5035c180c0ebf0dea8829adc2da671ec9548712/CHENTS_login.png)
+
+
+### Projeto Disponível:
+
+https://dev.azure.com/RM553831/CHENTS
