@@ -35,6 +35,10 @@ Um casal de idosos possui um filho que mora em outra cidade e deseja acompanhar 
 
 ---
 
+## Arquitetura
+
+![image1](image1)
+
 ## CHENTS: Informação que salva, colaboração que protege!
 link deploy: http://52.224.132.231:8080
 
