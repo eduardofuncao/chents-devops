@@ -53,3 +53,8 @@ LINK: http://52.224.132.231:8080
 ### Projeto Disponível:
 
 https://dev.azure.com/RM553831/CHENTS
+
+
+## Vídeo Apresentação:
+
+https://youtu.be/PCJznIbLM3A
